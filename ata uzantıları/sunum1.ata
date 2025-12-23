@@ -1,0 +1,7 @@
+fonksiyon topla(a, b)
+    döndür a + b
+bitti
+
+sonuç = topla(3, 7)
+yaz sonuç
+

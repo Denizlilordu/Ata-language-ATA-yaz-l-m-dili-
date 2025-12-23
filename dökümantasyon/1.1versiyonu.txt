@@ -1,0 +1,46 @@
+4️⃣ ATA LANGUAGE – RESMİ DOKÜMANTASYON (v1.1)
+🔹 Temel Yapı
+
+Program yukarıdan aşağı çalışır
+
+Bloklar bitti ile kapanır
+
+🔹 Yazdırma
+yaz "Merhaba"
+
+🔹 Değişken
+can = 10
+isim = "Arda"
+
+🔹 Koşul
+eğer can > 0 ise
+    yaz "Hayatta"
+değilse
+    yaz "Bitti"
+bitti
+
+🔹 Döngü
+tekrar 3 kez
+    yaz "Tekrar"
+bitti
+
+iken can > 0
+    can = can - 1
+bitti
+
+🔹 Fonksiyon (YENİ)
+fonksiyon carp(a, b)
+    döndür a * b
+bitti
+
+🔹 Yorum
+# Bu bir yorumdur
+
+🔹 Hatalar
+
+Eksik bitti
+
+Fazla bitti
+
+Yanlış değilse
+→ IDE Türkçe hata verir.

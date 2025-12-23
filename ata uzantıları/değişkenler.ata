@@ -1,0 +1,8 @@
+okul = "ATA Anadolu Lisesi"
+yil = 2025
+puan = 87.5
+
+yaz okul
+yaz yil
+yaz puan
+

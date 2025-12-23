@@ -1,0 +1,9 @@
+can = 3
+
+iken can > 0
+    yaz can
+    can = can - 1
+bitti
+
+yaz "Can kalmadı"
+

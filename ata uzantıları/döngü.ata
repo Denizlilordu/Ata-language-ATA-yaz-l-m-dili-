@@ -1,0 +1,6 @@
+yaz "Tekrar döngüsü başlıyor"
+
+tekrar 3 kez
+    yaz "Bu satır tekrarlandı"
+bitti
+

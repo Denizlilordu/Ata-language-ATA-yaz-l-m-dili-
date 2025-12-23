@@ -1,0 +1,8 @@
+puan = 4
+
+eğer puan >= 50 ise
+    yaz "Durum: Başarılı"
+değilse
+    yaz "Durum: Başarısız"
+bitti
+

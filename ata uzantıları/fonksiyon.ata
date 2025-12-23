@@ -1,0 +1,7 @@
+fonksiyon topla(a, b)
+    döndür a + b
+bitti
+
+sonuc = topla(3, 5)
+yaz sonuc
+

@@ -1,0 +1,14 @@
+fonksiyon selamla(isim)
+    yaz "Merhaba"
+    yaz isim
+bitti
+
+fonksiyon topla(a, b)
+    döndür a + b
+bitti
+
+selamla("ATA")
+
+sonuç = topla(4, 6)
+yaz sonuç
+
